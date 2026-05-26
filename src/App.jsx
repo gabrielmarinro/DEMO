@@ -1852,7 +1852,7 @@ function App() {
     setGeminiMessages(prev => [...prev, { role: 'user', text: msg, time: new Date().toLocaleTimeString('es-MX', { hour: '2-digit', minute: '2-digit' }) }]);
     setGeminiLoading(true); setGeminiModalOpen(true);
     try {
-      const K = 'AIzaSyDCdT3N78FQecwVo3nBF2iK1RI7xineXMY';
+      const K = 'AIzaSyAAZA5QLKJWbMW_S-cVcySFA-pVcrsY8WE';
       const ctx = getAppContext();
       const history = geminiMessages.filter(m => m.role).map(m => ({ role: m.role === 'user' ? 'user' : 'model', parts: [{ text: m.text }] }));
       const models = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite'];
