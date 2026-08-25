@@ -1,10 +1,8 @@
-# A fleet dashboard tells you what happened. Intelligence tells you what to do next.
+# A fleet dashboard tells you what happened. Outcome-Intervention tells you what to do next.
 
-## Demo Fleets Intelligence
+**Fleet Control Tower 360° for operational, predictive and financial decision intelligence.**
 
-**Control Tower 360° for operational, predictive and financial decision intelligence.**
-
-I built this demo around a simple question:
+I built this around a simple question:
 
 > **What happens when fleet data moves from monitoring events to anticipating operational and financial consequences?**
 
@@ -20,6 +18,6 @@ _Signal → finding → cause → cost → action → outcome_
 
 **The goal is action before the operational loss.**
 
-### Live demo
+### Live:
 
 **[Open Demo Fleets Intelligence →](https://gabrielmarinro.github.io/DEMO/)**
