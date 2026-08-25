@@ -1,4 +1,4 @@
-# A fleet dashboard tells you what happened. Outcome-Intervention tells you what to do next.
+# A fleet dashboard tells you what happened. Outcome Intervention tells you what to do next.
 
 **Fleet Control Tower 360° for operational, predictive and financial decision intelligence.**
 
@@ -16,8 +16,8 @@ The system therefore connects:
 
 _Signal → finding → cause → cost → action → outcome_
 
-**The goal is action before the operational loss.**
+**Action before operational loss.**
 
-### Live:
+### Live
 
-**[Open Demo Fleets Intelligence →](https://gabrielmarinro.github.io/DEMO/)**
+**[Explore Outcome Intervention →](https://gabrielmarinro.github.io/Outcome-Intervention/)**
