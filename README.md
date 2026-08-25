@@ -21,3 +21,7 @@ _Signal → finding → cause → cost → action → outcome_
 ### Live
 
 **[Explore Outcome Intervention →](https://gabrielmarinro.github.io/Outcome-Intervention/)**
+
+### Engineering
+
+[Architecture →](ARCHITECTURE.md) · [Data boundary →](DATA_NOTICE.md)
