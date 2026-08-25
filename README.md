@@ -35,17 +35,31 @@ This allows the same operating state to be interpreted at different decision lev
 
 ## Screens
 
+The screenshots below show the current product direction across operational, predictive and executive views.
+
+### Control Tower 360°
+
+![Control Tower 360°](screenshots/control-tower-360.png)
+
 ### Predictive Maintenance
 
-<img src="https://raw.githubusercontent.com/gabrielmarinro/DEMO/main/screenshots/zona-huachicoleo-horizontal.png" alt="Fleet intelligence demo" width="100%">
+![Predictive Maintenance](screenshots/predictive-maintenance.png)
 
-### Real-time intelligence
+### Compliance & Risk
 
-<img src="https://raw.githubusercontent.com/gabrielmarinro/DEMO/main/screenshots/Sugerencia-en-tiempo-real-de-creacion-de-Geocerca-1.jpg" alt="Real-time geofence intelligence" width="100%">
+![Compliance & Risk](screenshots/compliance-risk.png)
 
-### More product exploration
+### Asset Lifecycle & Capital
 
-See the [`screenshots/`](./screenshots) directory for additional views and interaction states.
+![Asset Lifecycle & Capital](screenshots/asset-lifecycle-capital.png)
+
+### Fuel & Cost Operative
+
+![Fuel & Cost Operative](screenshots/fuel-cost.png)
+
+### Multi-company entry point
+
+![Multi-company platform](screenshots/multi-company.png)
 
 ---
 
