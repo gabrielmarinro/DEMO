@@ -6,6 +6,10 @@ A fleet intelligence demo designed to move from **what happened → why it happe
 
 The experience combines operational signals, predictive intelligence, business impact and recommended action inside a multi-role **Control Tower 360°**.
 
+## Live demo
+
+**[Open Demo Fleets Intelligence →](https://gabrielmarinro.github.io/DEMO/)**
+
 ### What the demo explores
 
 - **Predictive Maintenance** — prioritizes assets by cost of delay and surfaces intervention opportunities.
@@ -33,15 +37,11 @@ The same operating state can therefore be interpreted at different decision leve
 
 ## Product views
 
-### Fleet intelligence
+The live demo includes multiple operating views spanning predictive maintenance, compliance & risk, asset lifecycle & capital, fuel efficiency and multi-company fleet operations.
 
-![Fleet intelligence](screenshots/zona-huachicoleo-horizontal.png)
+**[Explore the live product →](https://gabrielmarinro.github.io/DEMO/)**
 
-### Real-time geofence intelligence
-
-![Real-time geofence intelligence](screenshots/Sugerencia-en-tiempo-real-de-creacion-de-Geocerca-1.jpg)
-
-Additional interaction states are available in [`screenshots/`](./screenshots).
+Additional screenshots and interaction states are available in [`screenshots/`](./screenshots).
 
 ---
 
