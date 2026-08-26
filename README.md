@@ -1,10 +1,10 @@
-# A fleet dashboard tells you what happened. Outcome Intervention tells you what to do next.
+# A dashboard tells you what happened. Outcome Intervention tells you what to do next.
 
-**Fleet Control Tower 360° for operational, predictive and financial decision intelligence.**
+**Control Tower 360° for operational, predictive and financial decision intelligence.**
 
 I built this around a simple question:
 
-> **What happens when fleet data moves from monitoring events to anticipating operational and financial consequences?**
+> **What happens when data moves from monitoring events to anticipating operational and financial consequences?**
 
 _Fleet state → context → finding → root cause → impact → action → new state_
 
